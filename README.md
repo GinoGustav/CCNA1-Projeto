@@ -28,6 +28,7 @@ Criarei um projeto simples e fictício de uma pequena rede com as configuraçõe
 
 Gustavo Gino Pereira
 
-https://www.linkedin.com/in/ginogustavo
+Linkedin:
+https://www.linkedin.com/in/gustavo-gino
 
 Agradecimento a PUC MG por disponibilizar a realização da maratona, pelo professor que acompanhei as aulas no youtube Deividson Okopnik.
