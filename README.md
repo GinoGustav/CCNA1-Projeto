@@ -41,6 +41,34 @@ Através de cabos, Par trançado blindado (STP), Par trançado não blindado (UT
 ![54043200469628939__pt-BR__Original (1)](https://github.com/GinoGustav/CCNA1-Projeto/assets/45954363/6fa5b966-2244-41bc-a462-fd47790a9048)
 
 ## • Configuração do Switch/Roteador
+Nesse tópico irei começar a fazer a configurações do Switch/Roteador para estabelecer conexões. Irei utilizar "-G" no hostname dos dispositivos para indetificar minha titularidade do projeto!
+
+![image](https://github.com/GinoGustav/CCNA1-Projeto/assets/45954363/f0511eed-b555-446c-a0c1-8af18ea6d46a)
+
+• Nessa primeira imagem entrei no modo enable para acesso do modo **EXEC** e depois no modo de **Configuração Global** do Roteador e utilizando o código **"hostname R1-G"** declarei o nome do dispositivo identificado na tabela de endereçamento.
+
+![image](https://github.com/GinoGustav/CCNA1-Projeto/assets/45954363/cc21baf5-677e-4d00-9744-f26122a60348)
+
+• Agora configurei as senhas para o modo exec com criptografia e para o modo line console 0 e utilizei o serviço de criptografia para não exibir a senha, e utilizando o conceito de segurança criei uma senha "difícil" (Nesse caso como é um projeto estou utilizando a praticidade a meu favor mas o correto seria uma senha mais longa). Utilizei tambem os comandos **"security passwords min-length 7"** para definir a senha de no máximo 7 dígitos, e **"login block-for 120 attempts 3 within 60"** , bloqueará as tentativas de login por 120 segundos se houver três tentativas de login com falha dentro de 60 segundos. 
+
+![image](https://github.com/GinoGustav/CCNA1-Projeto/assets/45954363/77f3040b-fd26-4425-a14f-c57b0f45edc0)
+
+• Nesse caso eu configurei o SSH para acesso remoto seguro.
+
+![image](https://github.com/GinoGustav/CCNA1-Projeto/assets/45954363/41a10472-967e-42ca-b410-76b67f99b050)
+
+• Finalizando nossa configuração básica e de segurança.
+
+![image](https://github.com/GinoGustav/CCNA1-Projeto/assets/45954363/41a8e617-667e-4fb1-adf1-99f853eb005f)
+
+• Configurando as interfaces de R1 consultando a tabela de enderaçamento!
+
+
+
+
+
+
+
 
 # Autor
 
