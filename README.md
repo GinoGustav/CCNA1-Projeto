@@ -117,6 +117,13 @@ Por fim, fico feliz em finalizar mais um projeto e agregar aos meus estudos que 
 
 Gustavo Gino Pereira
 
+Certificações:
+[GustavoGino-CCNA1.pdf](https://github.com/GinoGustav/CCNA1-Projeto/files/13694455/GustavoGino-CCNA1.pdf)
+
+Carta de Mérito:
+[GustavoGino-7ª Onda do Ciber-Carta.pdf](https://github.com/GinoGustav/CCNA1-Projeto/files/13694454/GustavoGino-7.Onda.do.Ciber-Carta.pdf)
+
+
 Linkedin:
 https://www.linkedin.com/in/gustavo-gino
 
